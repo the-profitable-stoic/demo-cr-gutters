@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "CR Gutters",
+    "phone": "+12534471419",
+    "category": "gutter installation",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Seattle's Gutter Experts",
+      "heroSubline": "Protecting homes from relentless rain. Reliable gutter solutions built to last.",
+      "aboutTitle": "Built for Seattle Weather",
+      "aboutText": [
+        "CR Gutters started with a simple goal: to provide Seattle homeowners with gutter systems that can truly withstand our unique climate. We're not just another contractor; we're your neighbors, intimately familiar with the challenges of moss, mildew, and relentless moisture that plague our homes.",
+        "We believe in doing things right the first time. Our approach combines time-tested installation techniques with cutting-edge materials, ensuring your gutters perform flawlessly for years to come. We prioritize clear communication, honest assessments, and meticulous workmanship on every project.",
+        "We're committed to giving back to the community that supports us. We actively participate in local initiatives, and we source our materials from local suppliers whenever possible, contributing to the strength and resilience of the Seattle area."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Seattle's climate and housing styles."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "We use only the highest-quality, weather-resistant materials built to last."
+        },
+        {
+          "title": "Professional Installation",
+          "description": "Our skilled team ensures precise and reliable gutter installation every time."
+        },
+        {
+          "title": "Peace of Mind",
+          "description": "Protect your home from water damage with our comprehensive gutter solutions."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Gutter Inspection",
+      "ctaSubline": "Protect your Seattle home from water damage. Schedule your no-obligation inspection today!"
+    },
+    "services": [
+      {
+        "slug": "gutter-installation",
+        "name": "Gutter Installation",
+        "shortDescription": "Expert gutter installation tailored for Seattle's unique climate.",
+        "description": "Protecting your Seattle home from the relentless rain starts with a properly installed gutter system. At CR Gutters, we don't just slap up any old gutters; we meticulously plan and execute each installation to ensure optimal performance and longevity. We assess your home's specific needs, considering roof pitch, drainage patterns, and surrounding vegetation to determine the best gutter style and size for your property.\n\nWe offer a variety of materials, including aluminum, steel, and copper, each chosen for its durability and resistance to the elements. Our experienced installers use precise techniques to ensure seamless connections and proper slope, preventing leaks and ensuring efficient water flow away from your foundation. We pay close attention to detail, securing gutters firmly to your fascia board and ensuring a clean, professional finish that enhances your home's curb appeal.\n\nFrom classic Craftsman homes in West Seattle to modern renovations in Capitol Hill, we have the expertise to handle any installation project. Don't wait until water damage becomes a problem – invest in a professionally installed gutter system from CR Gutters and enjoy peace of mind knowing your home is protected.",
+        "process": [
+          "Step 1: Thorough assessment of your home's drainage needs.",
+          "Step 2: Selection of the optimal gutter material and style.",
+          "Step 3: Precise and professional installation by our experienced team.",
+          "Step 4: Final inspection to ensure flawless performance."
+        ],
+        "benefits": [
+          "Prevents water damage to your foundation and siding",
+          "Protects your landscaping from erosion",
+          "Reduces the risk of basement flooding",
+          "Extends the life of your roof"
+        ],
+        "faq": [
+          {
+            "question": "What type of gutters are best for Seattle's climate?",
+            "answer": "Aluminum gutters are a popular choice due to their durability, affordability, and resistance to rust. Steel gutters offer superior strength, while copper gutters provide a classic aesthetic and exceptional longevity."
+          },
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "In Seattle, we recommend cleaning your gutters at least twice a year – once in the spring and once in the fall – to remove leaves, debris, and moss buildup."
+          },
+          {
+            "question": "How long does gutter installation take?",
+            "answer": "The duration of installation depends on the size and complexity of your home, but most projects can be completed in one to two days."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-repair",
+        "name": "Gutter Repair",
+        "shortDescription": "Reliable gutter repair services to fix leaks and restore functionality.",
+        "description": "Seattle's constant moisture can take a toll on your gutter system, leading to leaks, sagging, and other damage. CR Gutters offers comprehensive repair services to address any issue and restore your gutters to optimal condition. We don't believe in quick fixes; we thoroughly inspect your system to identify the root cause of the problem and provide lasting solutions.\n\nWhether it's patching leaks, replacing damaged sections, or re-securing loose hangers, our skilled technicians have the expertise to handle any repair. We use high-quality materials and proven techniques to ensure a durable and watertight repair that will withstand Seattle's harsh weather. We also address common issues like improper slope and clogged downspouts, ensuring efficient water flow away from your home.\n\nIgnoring gutter damage can lead to costly water damage to your foundation, siding, and landscaping. Don't let a small problem become a major headache – contact CR Gutters for prompt and reliable repair services. We'll get your gutters back in shape and protect your home from the elements.",
+        "process": [
+          "Step 1: Thorough inspection of your gutter system to identify damage.",
+          "Step 2: Detailed explanation of the repair options and associated costs.",
+          "Step 3: Expert repair using high-quality materials.",
+          "Step 4: Final inspection to ensure a watertight and functional system."
+        ],
+        "benefits": [
+          "Prevents further water damage to your home",
+          "Extends the life of your gutter system",
+          "Saves money on costly repairs in the future",
+          "Restores the functionality of your gutters"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my gutters need repair?",
+            "answer": "Signs of gutter damage include leaks, sagging, rust, overflowing during rain, and detached downspouts."
+          },
+          {
+            "question": "Can I repair my gutters myself?",
+            "answer": "While some minor repairs can be done DIY, it's best to hire a professional for more complex issues to ensure a proper and lasting fix."
+          },
+          {
+            "question": "What is the cost of gutter repair?",
+            "answer": "The cost of repair depends on the extent of the damage and the materials required. We provide free estimates with a detailed breakdown of the costs involved."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning",
+        "shortDescription": "Professional gutter cleaning to prevent clogs and water damage.",
+        "description": "Clogged gutters are a common problem in Seattle, thanks to our abundant trees and frequent rainfall. Leaves, needles, moss, and other debris can accumulate in your gutters, blocking the flow of water and leading to overflows, leaks, and potential water damage. CR Gutters offers professional cleaning services to keep your gutters clear and functioning properly.\n\nOur experienced technicians use specialized tools and techniques to safely and efficiently remove debris from your gutters and downspouts. We take care to protect your landscaping and property during the cleaning process, and we dispose of the debris responsibly. We also inspect your gutters for any signs of damage and recommend necessary repairs to prevent future problems.\n\nRegular gutter cleaning is essential for maintaining the health and integrity of your home. Don't risk climbing ladders and dealing with messy debris yourself – let CR Gutters handle the dirty work and ensure your gutters are ready to handle Seattle's next downpour.",
+        "process": [
+          "Step 1: Careful removal of all debris from gutters and downspouts.",
+          "Step 2: Flushing of the system to ensure proper water flow.",
+          "Step 3: Inspection for any signs of damage or potential problems.",
+          "Step 4: Responsible disposal of all debris."
+        ],
+        "benefits": [
+          "Prevents clogged gutters and water damage",
+          "Protects your foundation, siding, and landscaping",
+          "Extends the life of your gutter system",
+          "Reduces the risk of pest infestations"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters in Seattle?",
+            "answer": "We recommend cleaning your gutters at least twice a year – once in the spring and once in the fall – to remove leaves, debris, and moss buildup."
+          },
+          {
+            "question": "What happens if I don't clean my gutters?",
+            "answer": "Clogged gutters can lead to water damage to your foundation, siding, and roof. They can also create breeding grounds for mosquitoes and other pests."
+          },
+          {
+            "question": "How much does gutter cleaning cost?",
+            "answer": "The cost of gutter cleaning depends on the size of your home and the amount of debris in your gutters. We provide free estimates with a clear and transparent pricing structure."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-guards",
+        "name": "Gutter Guards",
+        "shortDescription": "Install gutter guards to prevent debris buildup and reduce maintenance.",
+        "description": "Tired of constantly cleaning your gutters? CR Gutters offers gutter guard installation services to prevent debris buildup and minimize the need for regular cleaning. Gutter guards are a smart investment for Seattle homeowners who want to save time and effort while protecting their homes from water damage.\n\nWe offer a variety of gutter guard options to suit different needs and budgets, including mesh screens, surface tension systems, and foam inserts. Our experienced technicians will help you choose the right gutter guards for your home and install them professionally to ensure optimal performance. With gutter guards in place, you can say goodbye to clogged gutters and hello to peace of mind.\n\nFrom the moss-prone roofs of Queen Anne to the tree-lined streets of Ballard, gutter guards are a practical solution for any Seattle home. Let CR Gutters help you choose and install the perfect gutter guards for your property and enjoy a maintenance-free gutter system for years to come.",
+        "process": [
+          "Step 1: Assessment of your home's gutter system and debris accumulation patterns.",
+          "Step 2: Selection of the best gutter guard option for your needs and budget.",
+          "Step 3: Professional installation of the gutter guards.",
+          "Step 4: Final inspection to ensure proper fit and performance."
+        ],
+        "benefits": [
+          "Reduces the need for frequent gutter cleaning",
+          "Prevents clogged gutters and water damage",
+          "Protects your foundation, siding, and landscaping",
+          "Saves time and effort"
+        ],
+        "faq": [
+          {
+            "question": "Do gutter guards completely eliminate the need for cleaning?",
+            "answer": "While gutter guards significantly reduce the amount of debris that enters your gutters, they may still require occasional cleaning to remove fine particles and buildup."
+          },
+          {
+            "question": "What types of gutter guards do you offer?",
+            "answer": "We offer a variety of gutter guard options, including mesh screens, surface tension systems, and foam inserts. Each type has its own advantages and disadvantages, and we can help you choose the best option for your home."
+          },
+          {
+            "question": "How much do gutter guards cost?",
+            "answer": "The cost of gutter guards depends on the type of guard and the size of your home. We provide free estimates with a detailed breakdown of the costs involved."
+          }
+        ]
+      },
+      {
+        "slug": "downspout-installation",
+        "name": "Downspout Installation",
+        "shortDescription": "Proper downspout installation for efficient water drainage away from your home.",
+        "description": "Efficient water drainage is crucial for protecting your Seattle home from water damage, and properly installed downspouts are essential for achieving this. CR Gutters offers professional downspout installation services to ensure that water is directed away from your foundation and landscaping.\n\nWe carefully plan the placement and configuration of your downspouts to maximize drainage efficiency and minimize the risk of water pooling around your home. We use durable materials and secure connections to ensure that your downspouts can withstand Seattle's heavy rainfall and prevent leaks. We also offer downspout extensions to direct water further away from your foundation and prevent soil erosion.\n\nWhether you're building a new home or replacing your existing downspouts, CR Gutters has the expertise to handle the job. We'll ensure that your downspouts are properly installed and functioning optimally to protect your home from water damage for years to come.",
+        "process": [
+          "Step 1: Assessment of your home's drainage needs and landscaping.",
+          "Step 2: Planning of downspout placement and configuration.",
+          "Step 3: Professional installation of downspouts using durable materials.",
+          "Step 4: Testing to ensure proper water flow and drainage."
+        ],
+        "benefits": [
+          "Directs water away from your foundation",
+          "Protects your landscaping from erosion",
+          "Prevents water damage to your home",
+          "Reduces the risk of basement flooding"
+        ],
+        "faq": [
+          {
+            "question": "Where should downspouts be placed?",
+            "answer": "Downspouts should be placed in locations that allow water to drain away from your foundation and prevent pooling. They should also be positioned to avoid directing water onto walkways or driveways."
+          },
+          {
+            "question": "What are downspout extensions?",
+            "answer": "Downspout extensions are used to direct water further away from your foundation and prevent soil erosion. They can be made of plastic, metal, or even decorative stone."
+          },
+          {
+            "question": "How do I prevent downspouts from clogging?",
+            "answer": "Regular gutter cleaning and the installation of gutter guards can help prevent downspouts from clogging. You can also install downspout screens to catch debris before it enters the downspout."
+          }
+        ]
+      },
+      {
+        "slug": "moss-removal",
+        "name": "Moss Removal",
+        "shortDescription": "Safe and effective moss removal to protect your roof and gutters.",
+        "description": "Moss is a common problem for Seattle roofs and gutters, thanks to our damp climate and abundant trees. Moss growth can trap moisture, damage your roof shingles, and clog your gutters, leading to water damage. CR Gutters offers safe and effective moss removal services to protect your home.\n\nWe use gentle, eco-friendly methods to remove moss without damaging your roof or gutters. Our experienced technicians carefully scrape away the moss and apply a preventative treatment to inhibit future growth. We also clean your gutters to remove any moss debris and ensure proper water flow.\n\nDon't let moss take over your roof and gutters – contact CR Gutters for professional moss removal services. We'll keep your home looking its best and protect it from the damaging effects of moss growth.",
+        "process": [
+          "Step 1: Gentle scraping of moss from your roof and gutters.",
+          "Step 2: Application of a preventative treatment to inhibit future growth.",
+          "Step 3: Cleaning of gutters to remove moss debris.",
+          "Step 4: Responsible disposal of moss debris."
+        ],
+        "benefits": [
+          "Protects your roof shingles from damage",
+          "Prevents clogged gutters and water damage",
+          "Improves the appearance of your home",
+          "Extends the life of your roof and gutters"
+        ],
+        "faq": [
+          {
+            "question": "Why is moss a problem for roofs and gutters?",
+            "answer": "Moss traps moisture, which can damage roof shingles and clog gutters. It can also create a breeding ground for pests and contribute to wood rot."
+          },
+          {
+            "question": "Can I remove moss myself?",
+            "answer": "While you can remove moss yourself, it's important to use gentle methods to avoid damaging your roof or gutters. It's also important to wear protective gear and take safety precautions when working on a roof."
+          },
+          {
+            "question": "How often should I have my roof and gutters cleaned of moss?",
+            "answer": "In Seattle, we recommend having your roof and gutters cleaned of moss every one to two years, depending on the amount of tree cover around your home."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bellevue",
+        "slug": "bellevue-wa",
+        "state": "WA",
+        "content": "CR Gutters is proud to provide top-notch gutter installation and repair services to the residents of Bellevue, Washington. Known for its upscale neighborhoods featuring many homes built in the 1980s through the 2000s, Bellevue presents unique challenges and opportunities when it comes to gutter systems. We understand the importance of maintaining the aesthetic appeal and structural integrity of these homes, which is why we offer a wide range of gutter solutions to match any architectural style. \n\nBellevue's climate is characterized by mild, wet winters with persistent rainfall. Properly functioning gutters are crucial for protecting your home from water damage, preventing issues like foundation problems, basement leaks, and siding rot. CR Gutters offers durable and reliable gutter systems designed to withstand the Pacific Northwest weather. We're committed to providing Bellevue homeowners with the peace of mind knowing their homes are protected from the elements.",
+        "localContext": "Bellevue's upscale homes built between the 1980s and 2000s require careful gutter selection and installation to maintain their value and prevent water damage from the region's persistent rain.",
+        "nearbyAreas": [
+          "Redmond",
+          "Kirkland",
+          "Seattle"
+        ]
+      },
+      {
+        "city": "Redmond",
+        "slug": "redmond-wa",
+        "state": "WA",
+        "content": "CR Gutters is dedicated to serving the homeowners of Redmond, Washington, including those in the neighborhoods surrounding the Microsoft campus. Redmond's residential areas feature a mix of housing styles, all of which benefit from properly installed and maintained gutter systems. We offer a variety of gutter solutions tailored to meet the specific needs of Redmond homes, ensuring optimal performance and protection.\n\nGiven Redmond's climate, with its mild, wet winters and consistent rainfall, effective gutter systems are essential for preventing water damage. CR Gutters provides durable and reliable gutter installations and repairs to help Redmond homeowners safeguard their properties against the elements. We understand the importance of protecting your investment and offer expert services to keep your home dry and secure.",
+        "localContext": "Redmond's proximity to the Microsoft campus and its mix of housing means homes need reliable gutter systems to handle the consistent rainfall that characterizes the local climate.",
+        "nearbyAreas": [
+          "Bellevue",
+          "Kirkland",
+          "Woodinville"
+        ]
+      },
+      {
+        "city": "Kirkland",
+        "slug": "kirkland-wa",
+        "state": "WA",
+        "content": "CR Gutters provides expert gutter services to the residents of Kirkland, Washington. With its beautiful waterfront homes along Lake Washington, Kirkland presents unique challenges and considerations for gutter systems. We understand the importance of maintaining the aesthetic appeal of these properties while ensuring optimal water drainage and protection from the elements.\n\nKirkland experiences mild, wet winters with persistent rain, making properly functioning gutters crucial for preventing water damage. CR Gutters offers a wide range of gutter solutions designed to withstand the Pacific Northwest weather. We're committed to providing Kirkland homeowners with the peace of mind knowing their homes are protected from the elements.",
+        "localContext": "Kirkland's waterfront homes on Lake Washington require expertly installed gutter systems to protect them from water damage due to the area's frequent rainfall.",
+        "nearbyAreas": [
+          "Redmond",
+          "Bellevue",
+          "Kenmore"
+        ]
+      },
+      {
+        "city": "Tacoma",
+        "slug": "tacoma-wa",
+        "state": "WA",
+        "content": "CR Gutters is proud to serve the residents of Tacoma, Washington, including the historic Stadium District with its beautiful 1900s-1920s Craftsman homes. These older homes possess unique architectural details that require specialized gutter solutions to maintain their character and protect them from water damage. We understand the importance of preserving the historical integrity of Tacoma's homes while ensuring optimal gutter performance.\n\nTacoma's climate, characterized by mild, wet winters, necessitates reliable gutter systems to prevent issues like foundation problems and siding rot. CR Gutters offers a variety of gutter options, including seamless gutters and copper gutters, that complement the style of Tacoma's historic homes. We are dedicated to providing Tacoma homeowners with gutter solutions that are both functional and aesthetically pleasing.",
+        "localContext": "Tacoma's Stadium District, with its many Craftsman homes from the early 20th century, requires specialized gutter solutions that complement the architecture and protect against water damage.",
+        "nearbyAreas": [
+          "Seattle",
+          "Federal Way",
+          "Puyallup"
+        ]
+      },
+      {
+        "city": "Bothell",
+        "slug": "bothell-wa",
+        "state": "WA",
+        "content": "CR Gutters is pleased to offer our gutter installation and repair services to the residents of Bothell, Washington. Known for its suburban developments from the 1980s and 90s, Bothell presents a variety of homes that benefit from properly functioning gutter systems. We provide tailored gutter solutions to meet the specific needs of homes in Bothell, ensuring optimal performance and protection.\n\nBothell's climate, with its mild, wet winters and frequent rainfall, makes effective gutter systems essential for preventing water damage. CR Gutters delivers durable and reliable gutter installations and repairs to help Bothell homeowners safeguard their properties against the elements. We understand the importance of protecting your investment and offer expert services to keep your home dry and secure.",
+        "localContext": "Bothell's 1980s and 90s suburban homes benefit from reliable gutter systems that can effectively manage the consistent rainfall of the local climate.",
+        "nearbyAreas": [
+          "Woodinville",
+          "Kenmore",
+          "Mill Creek"
+        ]
+      },
+      {
+        "city": "Seattle",
+        "slug": "seattle-wa",
+        "state": "WA",
+        "content": "CR Gutters is proud to offer comprehensive gutter services throughout Seattle, Washington. From the historic homes of Capitol Hill to the modern residences of South Lake Union, we understand the diverse needs of Seattle homeowners. With Seattle's iconic rainy weather, a properly functioning gutter system is essential for protecting your home from water damage.\n\nWe offer a wide range of gutter solutions, including seamless aluminum, copper, and steel options, tailored to complement any architectural style. Our experienced team provides expert installation, repair, and cleaning services to ensure your gutters are performing optimally. CR Gutters is committed to keeping Seattle homes dry and protected year-round.",
+        "localContext": "Seattle's diverse neighborhoods and frequent rainfall demand high-quality gutter systems installed by experienced professionals.",
+        "nearbyAreas": [
+          "Bellevue",
+          "Tacoma",
+          "Shoreline"
+        ]
+      },
+      {
+        "city": "Renton",
+        "slug": "renton-wa",
+        "state": "WA",
+        "content": "CR Gutters is dedicated to providing top-quality gutter services to the residents of Renton, Washington. As a growing city with a mix of established neighborhoods and new developments, Renton requires versatile gutter solutions to meet the needs of its diverse housing stock. We offer a wide range of gutter styles and materials to ensure your home is protected from the elements.\n\nRenton's climate, characterized by mild, wet winters and consistent rainfall, makes properly functioning gutters essential for preventing water damage. CR Gutters offers durable and reliable gutter installations and repairs to help Renton homeowners safeguard their properties. Our commitment is to provide excellent service and ensure your peace of mind.",
+        "localContext": "Renton's mix of older and newer homes requires adaptable gutter solutions to effectively manage the region's frequent rainfall.",
+        "nearbyAreas": [
+          "Kent",
+          "Seattle",
+          "Bellevue"
+        ]
+      },
+      {
+        "city": "Sammamish",
+        "slug": "sammamish-wa",
+        "state": "WA",
+        "content": "CR Gutters is pleased to offer premier gutter services to the residents of Sammamish, Washington. Known for its family-friendly neighborhoods and lush surroundings, Sammamish homes benefit greatly from reliable gutter systems that protect against the area's consistent rainfall. We offer a variety of gutter solutions tailored to the specific needs of Sammamish homes, ensuring optimal performance and longevity.\n\nSammamish experiences mild, wet winters, making properly functioning gutters crucial for preventing water damage and maintaining the value of your home. CR Gutters provides durable and aesthetically pleasing gutter installations and repairs to help Sammamish homeowners safeguard their properties. We understand the importance of protecting your investment and offer expert services you can rely on.",
+        "localContext": "Sammamish's residential neighborhoods and wet climate demand reliable gutter systems to protect homes from water damage and preserve property values.",
+        "nearbyAreas": [
+          "Redmond",
+          "Issaquah",
+          "North Bend"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Gutter Installation",
+        "text": "CR Gutters installed new gutters on my craftsman in Ballard. They were on time, professional, and the new gutters look amazing! Highly recommend.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Gutter Cleaning",
+        "text": "Used CR Gutters for gutter cleaning at my home in Queen Anne. They did a thorough job removing all the moss and debris. Very happy with the service.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily L.",
+        "rating": 5,
+        "service": "Gutter Repair",
+        "text": "Had a leaky gutter after the winter storms. CR Gutters came out quickly and repaired the damage. Great service and fair price.",
+        "date": "2024-06-01"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Gutter Guards",
+        "text": "I had CR Gutters install gutter guards on my home in West Seattle. I am so glad I did! No more cleaning out the gutters every few months. Great investment!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Jennifer S.",
+        "rating": 4,
+        "service": "Moss Removal",
+        "text": "CR Gutters removed the moss from my roof and gutters. They were careful and did a great job. My roof looks so much better now!",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Downspout Installation",
+        "text": "CR Gutters installed new downspouts on my home. They were efficient and professional. I would definitely use them again for any gutter needs.",
+        "date": "2025-02-28"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "CR Gutters: Seattle Gutter Experts",
+        "description": "Reliable gutter installation, repair, and cleaning services in Seattle, WA. Protect your home from water damage with our expert solutions."
+      },
+      "about": {
+        "title": "About CR Gutters | Seattle, WA",
+        "description": "Learn about CR Gutters, your trusted local gutter contractor. We're dedicated to quality workmanship and customer satisfaction in Seattle."
+      },
+      "services": {
+        "title": "CR Gutters Services | Seattle, WA",
+        "description": "Explore our comprehensive gutter services, including installation, repair, cleaning, and gutter guards. Serving Seattle and surrounding areas."
+      },
+      "contact": {
+        "title": "Contact CR Gutters | Seattle, WA",
+        "description": "Contact CR Gutters for a free estimate on your gutter project. Serving Seattle, Bellevue, Redmond, and surrounding communities."
+      },
+      "reviews": {
+        "title": "CR Gutters Reviews | Seattle, WA",
+        "description": "Read what our satisfied customers have to say about CR Gutters. Quality gutter services in Seattle and surrounding areas."
+      },
+      "service-areas": {
+        "title": "Service Areas | CR Gutters",
+        "description": "CR Gutters provides professional gutter services to Seattle, Bellevue, Redmond, Kirkland, Tacoma, and Bothell, WA."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "gutter-installation": "/images/service-gutter-installation.webp",
+      "gutter-repair": "/images/service-gutter-repair.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp",
+      "gutter-guards": "/images/service-gutter-guards.webp",
+      "downspout-installation": "/images/service-downspout-installation.webp",
+      "moss-removal": "/images/service-moss-removal.webp"
+    },
+    "servicesResponsive": {
+      "gutter-installation": {
+        "src": "/images/service-gutter-installation.webp",
+        "srcset": "/images/service-gutter-installation-400w.webp 400w, /images/service-gutter-installation-800w.webp 800w, /images/service-gutter-installation-1200w.webp 1200w, /images/service-gutter-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-repair": {
+        "src": "/images/service-gutter-repair.webp",
+        "srcset": "/images/service-gutter-repair-400w.webp 400w, /images/service-gutter-repair-800w.webp 800w, /images/service-gutter-repair-1200w.webp 1200w, /images/service-gutter-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-guards": {
+        "src": "/images/service-gutter-guards.webp",
+        "srcset": "/images/service-gutter-guards-400w.webp 400w, /images/service-gutter-guards-800w.webp 800w, /images/service-gutter-guards-1200w.webp 1200w, /images/service-gutter-guards.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "downspout-installation": {
+        "src": "/images/service-downspout-installation.webp",
+        "srcset": "/images/service-downspout-installation-400w.webp 400w, /images/service-downspout-installation-800w.webp 800w, /images/service-downspout-installation-1200w.webp 1200w, /images/service-downspout-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "moss-removal": {
+        "src": "/images/service-moss-removal.webp",
+        "srcset": "/images/service-moss-removal-400w.webp 400w, /images/service-moss-removal-800w.webp 800w, /images/service-moss-removal-1200w.webp 1200w, /images/service-moss-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
